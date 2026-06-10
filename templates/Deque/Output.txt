@@ -1,0 +1,5 @@
+Orginal deque: 10 20 30 40 50 
+The first element (front) is: 10
+The last element (back) is: 50
+The element at index 3 is: 40
+The element at index 4 is:50
