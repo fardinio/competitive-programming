@@ -1,0 +1,31 @@
+# C/C++ generated files
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.dll
+*.ilk
+*.pdb
+
+# Build folders
+build/
+bin/
+obj/
+cmake-build-*/
+
+# IntelliJ / CLion
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Code::Blocks
+*.cbp
+*.depend
+*.layout
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
